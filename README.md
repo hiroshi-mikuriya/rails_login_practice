@@ -4,3 +4,5 @@ Railsを使ってログインやアカウントの管理などを行うWEBアプ
 
 * サインイン画面  
 http://localhost:3000/users/sign_up
+* 参考URL  
+https://techacademy.jp/magazine/7336
